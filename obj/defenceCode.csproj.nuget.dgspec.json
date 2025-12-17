@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cuteFrog\\Documents\\projects\\defenceCode\\defenceCode.csproj": {}
+    "C:\\Users\\kessokuBand\\Documents\\projects\\defenceCode\\defenceCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cuteFrog\\Documents\\projects\\defenceCode\\defenceCode.csproj": {
+    "C:\\Users\\kessokuBand\\Documents\\projects\\defenceCode\\defenceCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cuteFrog\\Documents\\projects\\defenceCode\\defenceCode.csproj",
+        "projectUniqueName": "C:\\Users\\kessokuBand\\Documents\\projects\\defenceCode\\defenceCode.csproj",
         "projectName": "defenceCode",
-        "projectPath": "C:\\Users\\cuteFrog\\Documents\\projects\\defenceCode\\defenceCode.csproj",
-        "packagesPath": "C:\\Users\\cuteFrog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cuteFrog\\Documents\\projects\\defenceCode\\obj\\",
+        "projectPath": "C:\\Users\\kessokuBand\\Documents\\projects\\defenceCode\\defenceCode.csproj",
+        "packagesPath": "C:\\Users\\kessokuBand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kessokuBand\\Documents\\projects\\defenceCode\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cuteFrog\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kessokuBand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
